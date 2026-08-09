@@ -1,0 +1,7 @@
+site/
+.cache/
+__pycache__/
+*.tmp
+*.log
+.claude/
+CLAUDE.md

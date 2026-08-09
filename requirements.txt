@@ -1,0 +1,5 @@
+# Material for MkDocs 9系に固定する。
+# MkDocs 2.0 でプラグイン機構・テーマ機構が後方互換なく変更される予定があり、
+# 上限を切らないと CI が新メジャーを拾って突然壊れるため。
+# https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
+mkdocs-material>=9.5,<10

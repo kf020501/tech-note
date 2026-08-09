@@ -1,0 +1,56 @@
+.md-grid {
+  /* メインコンテンツの最大幅を指定 */
+  max-width: 1600px; 
+}
+
+.md-footer__inner {
+  /* 前/次の表示(フッター部分)を非表示に */
+  display: none;
+}
+
+h2 {
+  /* h2に下線を表示 */
+  border-style: solid;
+  border-width: 0px 0px 1px 0px; 
+  border-color: #C0C0C0;
+  font-weight: bold;
+}
+
+html {
+  font-size: 110%;
+}
+
+@media screen and (min-width:100em) {
+  html {
+    font-size: 110%
+  }
+}
+
+@media screen and (min-width:125em) {
+  html {
+    font-size: 110%
+  }
+}
+
+.md-typeset table tr {
+  line-height: 1; /* 行の高さをさらに狭く */
+}
+
+.md-typeset table th,
+.md-typeset table td {
+  padding: 2px 6px; /* パディングを最小限に調整 */
+}
+
+.md-typeset table {
+  border-collapse: collapse; /* セルの隙間をなくす */
+}
+
+/* 列名の背景をグレーに設定 */
+.md-typeset table th {
+  background-color: #eeeeee; /* グレーの背景色 */
+  color: #000; /* テキストの色を黒に */
+}
+
+/* :root>* {
+  --md-code-bg-color: #353535;
+} */
