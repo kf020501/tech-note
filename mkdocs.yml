@@ -5,6 +5,7 @@ repo_url: https://github.com/kf020501/tech-note
 theme:
   name: material
   language: ja
+  custom_dir: overrides   # overrides/main.html で noindex メタタグを挿入
   features:
     - navigation.sections
     - navigation.tabs

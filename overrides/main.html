@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{#
+  検索エンジンのインデックス登録を拒否する。
+  Material のテンプレートには robots メタタグの組み込み処理がないため、
+  base.html の extrahead ブロック（<head> 内）を上書きして挿入する。
+
+  robots.txt ではなくメタタグを使う理由:
+  本サイトは kf020501.github.io/tech-note/ というサブパス配信であり、
+  クローラが参照する robots.txt はドメイン直下の
+  kf020501.github.io/robots.txt だけ。サブパスに置いても無視される。
+#}
+{% block extrahead %}
+  <meta name="robots" content="noindex, nofollow">
+{% endblock %}
