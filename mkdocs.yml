@@ -10,11 +10,11 @@ theme:
     - navigation.tabs
   font:
     code: Inconsolata
-  logo: datastore/memo_wh.png
-  favicon: datastore/memo_bl.png
+  logo: assets/memo_wh.png
+  favicon: assets/memo_bl.png
 
 extra_css:
-  - extra.css
+  - assets/extra.css
 
 markdown_extensions:
   - pymdownx.highlight:
