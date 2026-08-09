@@ -1,0 +1,553 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1161px" height="371px" viewBox="-0.5 -0.5 1161 371" content="&lt;mxfile&gt;&lt;diagram id=&quot;M9E4ZbhymhLchwJ73lIy&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="60" width="770" height="240" fill="#000000" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 768px; height: 1px; padding-top: 180px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="font-size: 16px">
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        top -
+                                    </font>
+                                    <font face="Courier New" style="font-size: 16px" color="#ffff00">
+                                        00:42:09
+                                    </font>
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                    </font>
+                                    <font face="Courier New" style="font-size: 16px" color="#33ff33">
+                                        up 6 days,  1:54
+                                    </font>
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        ,
+                                    </font>
+                                    <font face="Courier New" style="font-size: 16px" color="#007fff">
+                                        2 users
+                                    </font>
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        ,
+                                    </font>
+                                    <font face="Courier New" style="font-size: 16px" color="#ff3333">
+                                        load average: 0.20, 0.06, 0.02
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        Tasks: 209 total,   3 running, 206 sleeping,   0 stopped,   0 zombie
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font face="Courier New" style="font-size: 16px" color="#ffff00">
+                                        %Cpu(s):  0.7 us, 12.7 sy,  0.0 ni, 85.0 id,  0.0 wa,  1.0 hi,  0.7 si,  0.0 st
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        MiB Mem :   1719.5 total,    915.9 free,    233.3 used,    570.2 buff/cache
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        MiB Swap:   1640.0 total,   1640.0 free,      0.0 used.   1319.3 avail Mem
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        <br/>
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        <br/>
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font style="background-color: rgb(255 , 255 , 255) ; font-size: 16px" face="Courier New">
+                                        |   PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font face="Courier New" style="font-size: 16px" color="#ffffff">
+                                        |
+                                    </font>
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        9571 user      20   0    4384    932    864 S  10.3   0.1   0:04.85 yes
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font face="Courier New" style="font-size: 16px" color="#ffffff">
+                                        |
+                                    </font>
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        9539 user      20   0  165028   7392   4836 S   2.0   0.4   0:01.08 sshd
+                                    </font>
+                                </div>
+                                <div style="font-size: 16px">
+                                    <font color="#ffffff" face="Courier New" style="font-size: 16px">
+                                        |     1 root      20   0  175128  13596   9028 S   0.0   0.8   0:17.97 systemd
+                                    </font>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="184" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    top - 00:42:09 up 6 days,  1:54,  2 users,  load average: 0.20, 0.06, 0.02...
+                </text>
+            </switch>
+        </g>
+        <path d="M 40 20 L 120 20 L 120 40 L 100 40 L 90.4 70 L 80 40 L 40 40 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 30px; margin-left: 41px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                現在時刻
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="80" y="34" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    現在時刻
+                </text>
+            </switch>
+        </g>
+        <path d="M 160 20 L 280 20 L 280 40 L 240 40 L 220 70 L 220 40 L 160 40 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 30px; margin-left: 161px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                システム起動時間
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="220" y="34" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    システム起動時間
+                </text>
+            </switch>
+        </g>
+        <path d="M 320 20 L 440 20 L 440 40 L 400 40 L 380 70 L 380 40 L 320 40 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 30px; margin-left: 321px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                ログインユーザー数
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="380" y="34" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ログインユーザー数
+                </text>
+            </switch>
+        </g>
+        <path d="M 480 0 L 600 0 L 600 40 L 560 40 L 540 70 L 540 40 L 480 40 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 20px; margin-left: 481px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                ロードアベレージ
+                                <br/>
+                                直近 1分, 5分, 15分
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="540" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ロードアベレージ
+直近 1分, 5分, 15分
+                </text>
+            </switch>
+        </g>
+        <path d="M 822.5 37.5 L 847.5 37.5 L 847.5 122.5 L 847.5 122.5 L 842.5 147.5 L 832.5 122.5 L 822.5 122.5 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,835,92.5)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 83px; height: 1px; padding-top: 93px; margin-left: 806px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                プロセス数
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="848" y="96" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    プロセス数
+                </text>
+            </switch>
+        </g>
+        <path d="M 865 35 L 1075 35 L 1075 395 L 903.9 395 L 877.6 415 L 883.9 395 L 865 395 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="rotate(90,970,225)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 358px; height: 1px; padding-top: 225px; margin-left: 801px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        CPU
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        状態 使用している
+                                    </span>
+                                    <u>
+                                        <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                            時間の割合
+                                        </span>
+                                    </u>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        us
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (user)
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        ユーザープロセス
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        sy
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (system)
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        カーネルプロセス
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        ni
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (nice)
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        優先度が変更されたプロセス
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        id
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (idle)
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        CPU
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        のアイドル時間
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        wa
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (io
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        wait)
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        ディスク
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        I/O
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        待ち時間
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        hi
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (hardware
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot; ; vertical-align: baseline">
+                                        irq
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        )
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        ハードウェア割り込み要求時間(※1)
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        si (software irq)
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        ソフトウェア割り込み要求時間
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        st
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (steal)
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        ゲスト
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        OS
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        が
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        CPU
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        を割り当てられなかった時間
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="text-indent: 0in ; font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                    </span>
+                                    <span style="text-indent: 0in ; font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        (
+                                    </span>
+                                    <span style="text-indent: 0in ; font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        仮想環境
+                                    </span>
+                                    <span style="text-indent: 0in ; font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        )
+                                    </span>
+                                    <br/>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="text-indent: 0in ; font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        <br/>
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="text-indent: 0in ; font-size: 9pt ; font-family: &quot;biz udゴシック&quot;">
+                                        ※1 キーボード入力など
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="980" y="229" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    CPU状態 使用している時間の割合...
+                </text>
+            </switch>
+        </g>
+        <path d="M 100 290 L 180 290 L 180 310 L 160 310 L 180 340 L 140 310 L 100 310 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="translate(0,315)scale(1,-1)translate(0,-315)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 330px; margin-left: 101px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                優先実行度
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="140" y="334" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    優先実行度
+                </text>
+            </switch>
+        </g>
+        <path d="M 160 180 L 280 180 L 280 200 L 240.4 200 L 270.4 210 L 210.4 200 L 160 200 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 190px; margin-left: 161px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                使用中の仮想メモリ
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="220" y="194" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    使用中の仮想メモリ
+                </text>
+            </switch>
+        </g>
+        <path d="M 290 180 L 410 180 L 410 200 L 370 200 L 359.6 210 L 350 200 L 290 200 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 190px; margin-left: 291px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                使用中の実メモリ
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="350" y="194" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    使用中の実メモリ
+                </text>
+            </switch>
+        </g>
+        <path d="M 414 180 L 534 180 L 534 200 L 460.4 200 L 429.6 210 L 440.4 200 L 414 200 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 190px; margin-left: 415px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                使用中の共有メモリ
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="474" y="194" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    使用中の共有メモリ
+                </text>
+            </switch>
+        </g>
+        <path d="M 190 290 L 270 290 L 270 310 L 250 310 L 230 340 L 230 310 L 190 310 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="translate(0,315)scale(1,-1)translate(0,-315)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 330px; margin-left: 191px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                nice値
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="230" y="334" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    nice値
+                </text>
+            </switch>
+        </g>
+        <path d="M 320 290 L 540 290 L 540 340 L 450 340 L 460.8 370 L 430 340 L 320 340 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="translate(0,330)scale(1,-1)translate(0,-330)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 345px; margin-left: 321px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        プロセスの状態
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;calibri&quot;">
+                                        D:
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        割り込み不可
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;calibri&quot;">
+                                        R:
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        実行中
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;calibri&quot;">
+                                        S:
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        スリープ中
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;calibri&quot;">
+                                        <br/>
+                                        T:
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        停止中
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;calibri&quot;">
+                                        Z:
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        ゾンビ状態
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="430" y="349" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    プロセスの状態D:割り込み不可  R:実行中 S:スリープ中...
+                </text>
+            </switch>
+        </g>
+        <path d="M 560 290 L 760 290 L 760 330 L 680 330 L 642 360 L 660 330 L 560 330 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" transform="translate(0,325)scale(1,-1)translate(0,-325)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 340px; margin-left: 561px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        プロセス開始時から使用した、
+                                    </span>
+                                </p>
+                                <p style="margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-indent: 0in ; text-align: left">
+                                    <span style="font-size: 9pt ; font-family: &quot;calibri&quot;">
+                                        CPU
+                                    </span>
+                                    <span style="font-size: 9pt ; font-family: &quot;yu gothic&quot;">
+                                        合計時間
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="660" y="344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    プロセス開始時から使用した、
+CPU合計時間
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
